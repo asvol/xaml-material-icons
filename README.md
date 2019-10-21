@@ -1,7 +1,8 @@
 # Convert SVG icons to XAML resource file
 
-Icons [source](https://materialdesignicons.com/)
-SvgToXaml tool source [https://github.com/BerndK/SvgToXaml]
+ - Icons [source](https://materialdesignicons.com/)
+
+ - SvgToXaml tool source [https://github.com/BerndK/SvgToXaml]
 
 
 ## Versioning
